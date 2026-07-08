@@ -91,10 +91,24 @@ function registerImmersiveAircraftRecipes(event) {
 		return result;
 	}
 	//#endregion
-
+	
+	
 	event.remove({ mod: 'man_of_many_planes' });
 	event.remove({ mod: 'immersive_aircraft' });
 
+	//Scaffolding Frame
+	event.shaped('tfg:scaffolding_frame',
+		[
+			' A ',
+			'ABA',
+			' A '
+		],
+		{
+			A: '#forge:rods/wood',
+			B: '#forge:cloth'
+		}).id('tfg:shaped/scaffolding_frame');
+
+	/**
 	event.shaped('immersive_aircraft:hull', [
 		'AAA',
 		'BCB',
@@ -848,7 +862,7 @@ function registerImmersiveAircraftRecipes(event) {
 	], {
 		A: '#forge:rotors',
 		B: '#create:seats',
-		C: '#forge:rods/long/steel',
+		C: 'gtceu:long_wood_rod',
 		D: 'tfg:scaffolding_frame',
 		E: 'immersive_aircraft:engine'
 	}).id('tfg:immersive_aircraft/shaped/quadrocopter');
@@ -1049,4 +1063,5 @@ function registerImmersiveAircraftRecipes(event) {
 		.duration(40)
 		.circuit(1)
 		.EUt(GTValues.VA[GTValues.ULV])
+	*/
 }

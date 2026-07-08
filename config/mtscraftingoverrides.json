@@ -440,7 +440,7 @@
             "gtceu:fine_copper_wire:18",
             "mts:mtsofficialpack.headlight:2",
 			"gtceu:lv_lithium_battery:1",
-			"tags:gtceu:circuits/lv:4",
+			"tags:circuits/lv:4",
 			"tfc:metal/bars/wrought_iron:8"
           ]
         ],
@@ -535,7 +535,7 @@
             "minecraft:lever:4",
             "ad_astra:iron_plating_button:10",
             "gtceu:aluminium_screw:64",
-            "tags:gtceu:circuits/mv:6",
+            "tags:circuits/mv:6",
             "gtceu:fine_copper_wire:48",
             "mts:mtsofficialpack.headlight:6",
             "minecraft:glass_pane:10",
@@ -614,7 +614,7 @@
             "gtceu:fine_copper_wire:32",
             "mts:mtsofficialpack.headlight:6",
             "minecraft:glass_pane:24",
-			"tags:gtceu:circuits/lv:4",
+			"tags:circuits/lv:4",
 			"gtceu:lv_lithium_battery:1"
           ]
         ],
@@ -687,7 +687,7 @@
             "gtceu:potin_small_fluid_pipe:2",
             "minecraft:lever:4",
             "minecraft:tripwire_hook:4",
-            "tags:gtceu:circuits/lv:4",
+            "tags:circuits/lv:4",
             "gtceu:fine_copper_wire:32",
 			"gtceu:lv_lithium_battery:1",
             "mts:mtsofficialpack.headlight:4",
@@ -888,8 +888,8 @@
             "gtceu:wrought_iron_bolt:48",
             "gtceu:wrought_iron_rod:24",
             "gtceu:fine_copper_wire:48",
-			"tags:gtceu:circuits/mv:2",
-            "tags:gtceu:circuits/lv:4",
+			"tags:circuits/mv:2",
+            "tags:circuits/lv:4",
             "minecraft:lever:2",
             "minecraft:glass_pane:12",
             "mts:mtsofficialpack.headlight:2",
@@ -1015,7 +1015,7 @@
             "minecraft:tripwire_hook:3",
             "gtceu:fine_copper_wire:12",
             "mts:mtsofficialpack.headlight:4",
-			"tags:gtceu:circuits/mv:2",
+			"tags:circuits/mv:2",
 			"gtceu:lv_lithium_battery:1"
           ]
         ],
@@ -1104,24 +1104,6 @@
             "gtceu:wrought_iron_plate:2",
             "gtceu:wrought_iron_bolt:6",
             "gtceu:rubber_plate:4"
-          ]
-        ],
-        "extraMaterialLists": {
-          "": [
-            []
-          ],
-          "_legacy": [
-            []
-          ]
-        }
-      },
-	  "wheelvintage_sinty": {
-        "commonMaterialLists": [
-          [
-            "gtceu:wrought_iron_plate:2",
-            "gtceu:wrought_iron_bolt:6",
-            "gtceu:rubber_plate:3"
-			"gtceu:silicon_rubber_plate:1"
           ]
         ],
         "extraMaterialLists": {
@@ -1296,7 +1278,7 @@
             "gtceu:fine_copper_wire:12",
             "mts:mtsofficialpack.headlight:2",
 			"tfc:metal/bars/wrought_iron:2",
-			"tags:gtceu:circuits/lv:4",
+			"tags:circuits/lv:4",
 			"gtceu:lv_lithium_battery:1"
           ]
         ],
@@ -1390,7 +1372,7 @@
             "gtceu:fine_copper_wire:24",
             "mts:mtsofficialpack.headlight:2",
             "minecraft:glass_pane:6",
-			"tags:gtceu:circuits/lv:6",
+			"tags:circuits/lv:6",
 			"gtceu:lv_lithium_battery:1"
           ]
         ],
@@ -1477,7 +1459,7 @@
             "gtceu:wrought_iron_spring:3",
             "minecraft:lever:4",
             "minecraft:tripwire_hook:4",
-            "tags:gtceu:circuits/mv:2",
+            "tags:circuits/mv:2",
             "gtceu:fine_copper_wire:32",
             "mts:mtsofficialpack.headlight:4",
             "minecraft:glass_pane:8",
@@ -1981,7 +1963,7 @@
             "gtceu:potin_small_fluid_pipe:10",
 			"gtceu:steel_plate:5",
             "minecraft:iron_block:1",
-			"tags:gtceu:circuits/lv:2"
+			"tags:circuits/lv:2"
           ]
         ],
         "extraMaterialLists": {
@@ -2113,7 +2095,7 @@
         "commonMaterialLists": [
           [
             "gtceu:wrought_iron_plate:6",
-            "tags:gtceu:circuits/lv:1"
+            "tags:circuits/lv:1"
           ]
         ],
         "extraMaterialLists": {
@@ -2308,7 +2290,7 @@
             "minecraft:string:10",
             "gtceu:fine_copper_wire:12",
             "minecraft:glass_pane:3",
-			"tags:gtceu:circuits/lv:4",
+			"tags:circuits/lv:4",
 			"gtceu:lv_lithium_battery:1"
           ]
         ],
@@ -2367,7 +2349,7 @@
             "minecraft:lever:8",
             "tfc:metal/bars/wrought_iron:16",
             "minecraft:tripwire_hook:3",
-			"tags:gtceu:circuits/lv:4",
+			"tags:circuits/lv:4",
 			"gtceu:lv_lithium_battery:1"
           ]
         ],
@@ -2438,7 +2420,7 @@
             "minecraft:lever:4",
             "tfc:metal/bars/wrought_iron:16",
             "gtceu:wrought_iron_bolt:24",
-            "tags:gtceu:circuits/lv:2",
+            "tags:circuits/lv:2",
             "gtceu:fine_copper_wire:24",
             "minecraft:glass_pane:16",
             "mts:mtsofficialpack.headlight:1",
@@ -2627,7 +2609,7 @@
           [
             "gtceu:fine_copper_wire:10",
             "mts:mtsofficialpack.sparkplug:2",
-            "tags:gtceu:circuits/hv:1",
+            "tags:circuits/hv:1",
             "gtceu:steel_plate:12",
             "gtceu:potin_small_fluid_pipe:3",
             "minecraft:redstone_block:2",
@@ -3340,7 +3322,7 @@
             "gtceu:wrought_iron_bolt:8",
             "gtceu:wrought_iron_plate:6",
             "gtceu:fine_copper_wire:8",
-            "tags:gtceu:circuits/lv:1",
+            "tags:circuits/lv:1",
             "gtceu:nightvision_goggles:1",
             "minecraft:glass:6"
           ]
@@ -3502,7 +3484,7 @@
           [
             "gtceu:wrought_iron_plate:1",
             "gtceu:wrought_iron_bolt:1",
-            "tags:gtceu:circuits/lv:1",
+            "tags:circuits/lv:1",
             "minecraft:glass_pane:1"
           ]
         ]
@@ -4256,7 +4238,7 @@
           [
             "gtceu:wrought_iron_plate:1",
             "gtceu:wrought_iron_bolt:1",
-            "tags:gtceu:circuits/lv:1",
+            "tags:circuits/lv:1",
             "minecraft:glass_pane:1"
           ]
         ]
@@ -4360,7 +4342,7 @@
             "gtceu:fine_copper_wire:8",
             "mts:mtsofficialpack.headlight:2",
             "mts:oamp.engineescargoti6:1",
-			"tags:gtceu:circuits/mv:1",
+			"tags:circuits/mv:1",
 			"gtceu:lv_lithium_battery:1"
           ]
         ],
@@ -4519,7 +4501,27 @@
           ]
         }
       },
-      "stationmerc": {
+      "wheelvintage": {
+        "commonMaterialLists": [
+			[
+				"gtceu:wrought_iron_plate:2",
+				"gtceu:wrought_iron_bolt:6",
+				"gtceu:rubber_plate:3"
+				
+			]
+        ],
+        "extraMaterialLists": {
+          "_sinty": [
+            [
+				"gtceu:silicone_rubber_plate:1"
+			]
+          ],
+          "_legacy": [
+            []
+          ]
+        }
+      },
+	  "stationmerc": {
         "commonMaterialLists": [
           [
             "gtceu:wrought_iron_plate:44",
@@ -4532,7 +4534,7 @@
             "gtceu:fine_copper_wire:18",
             "mts:mtsofficialpack.headlight:2",
             "mts:mtsofficialpack.enginemercedesm102:1",
-			"tags:gtceu:circuits/mv:1",
+			"tags:circuits/mv:1",
 			"gtceu:lv_lithium_battery:1"
           ]
         ],
@@ -4626,7 +4628,7 @@
             "gtceu:fine_copper_wire:24",
             "mts:mtsofficialpack.headlight:4",
             "mts:oamp.enginecamarov8:1",
-			"tags:gtceu:circuits/mv:1",
+			"tags:circuits/mv:1",
 			"gtceu:lv_lithium_battery:1"
           ]
         ],
@@ -4733,7 +4735,7 @@
             "gtceu:fine_copper_wire:6",
             "mts:mtsofficialpack.headlight:2",
             "mts:oamp.engineescargoti6:1",
-			"tags:gtceu:circuits/lv:2",
+			"tags:circuits/lv:2",
 			"gtceu:lv_lithium_battery:1"
           ]
         ],
