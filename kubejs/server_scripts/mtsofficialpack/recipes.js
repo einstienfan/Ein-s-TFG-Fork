@@ -7,7 +7,15 @@ const registerMTSOCPRecipes = (event) => {
 	if (!Platform.isLoaded('mts') || !Item.exists('mts:mtsofficialpack.trafficcone')) return;
 	
 	event.remove({mod: 'mtsofficialpack' })
-
+	
+	//Custom
+	event.recipes.gtceu.assembler('mts:mtsofficialpack.blowtorch')
+		.itemInputs('1x gtceu:steel_small_fluid_pipe', '2x #forge:rings/rubber', '1x gtceu:brass_rod')
+		.inputFluids(Fluid.of('gtceu:propane', 750))
+		.itemOutputs('mts:mtsofficialpack.blowtorch')
+		.duration(120)
+		.EUt(32);
+	
 	//#region Parts
 
 	event.recipes.gtceu.assembler('mts:mtsofficialpack.headlight')
